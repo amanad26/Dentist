@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/bg_menu_navbar.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/button_bg.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/button_bg_light.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/custom_bg_button.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/custom_bg_logout.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/custom_bg_view_more.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/drawable/half_circle_b.xml" value="0.118" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/layout/activity_about_us.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/layout/activity_add_material.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/layout/activity_doctor_welcome.xml" value="0.16" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/layout/custom_progress_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Windows 11/AndroidStudioProjects/Dentist/Dentist/app/src/main/res/layout/internet_dialog.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

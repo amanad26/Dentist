@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933480490456",
+    "project_id": "dentist-17d37",
+    "storage_bucket": "dentist-17d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933480490456:android:1e76cb9249e620aa927ead",
+        "android_client_info": {
+          "package_name": "com.abmtech.dentist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkoz7C0VbhIdzypiBEtyHlpHo5AyH5ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
